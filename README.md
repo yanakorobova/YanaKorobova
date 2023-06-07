@@ -1,7 +1,7 @@
-### Frontend developer from Russia.
 <div id="header" align="center">
   <img src="https://kratikal.com/blog/wp-content/uploads/2022/12/ezgif.com-gif-maker-1-1.gif" width="200"/>
   <h1 align="center">Hi 👋, I'm Yana</h1>
+  ### Frontend developer from Russia.
 </div>
 ### :hammer_and_wrench: Languages and Tools :
 <div>
