@@ -1,7 +1,9 @@
-<div id="header" align="center">
+<div align="center">
   <img src="https://kratikal.com/blog/wp-content/uploads/2022/12/ezgif.com-gif-maker-1-1.gif" width="200"/>
-  <h1>Hi 👋, I'm Yana</h1>
-  <h2>Frontend developer from Russia.</h2>
+  <div>  
+    <h1>Hi 👋, I'm Yana</h1>
+    <h2>Frontend developer from Russia.</h2>
+  </div>
 </div>
 <div align="center">
    <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="react"/>
