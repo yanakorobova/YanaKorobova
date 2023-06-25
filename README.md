@@ -2,7 +2,7 @@
   <img src="https://kratikal.com/blog/wp-content/uploads/2022/12/ezgif.com-gif-maker-1-1.gif" width="200"/>
     <h1>Hi 👋, I'm Yana</h1>
     <h3>Frontend developer from Russia</h3>
-  <a href="https://yanakorobova.github.io/portfolio/">
+  <a href="https://yanakorobova.github.io/portfolio/" target='_blank'>
       <img src="https://img.shields.io/badge/Portfolio-lightseagreen?style=for-the-badge" width="100" alt="telegram-badge"/>
   </a>
 </div>
